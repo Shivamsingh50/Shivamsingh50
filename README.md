@@ -59,7 +59,7 @@ Currently learning and working on:
 ---
 
 ## 📫 Connect With Me  
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- GitHub: https://github.com/Shivamsingh50
+- LinkedIn: https://linkedin.com/in/shivam-singh30/
 
 ⭐ If you like my work, feel free to star my repositories!
