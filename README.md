@@ -1,60 +1,74 @@
-# Hi 👋, I'm Shivam Singh
+# 👨‍💻 Full Stack Developer
 
-🎓 B.tech IT Student  
-💻 Frontend Developer | Data Analytics | Data Engineering Enthusiast  
-
----
-
-## 🚀 About Me  
-I am a B.tech IT student passionate about building user-friendly web interfaces and working with data-driven systems.  
-I enjoy solving real-world problems using code and continuously improving my technical skills.
-
-Currently learning and working on:
-- Frontend Development (HTML, CSS, JavaScript)
-- Data Analytics (Python, SQL, Pandas)
-- Data Engineering concepts (ETL Pipelines, Databases)
-- -Web Scraping (Requests, BeautifulSoup, Selenium)
+Hi there! I'm a passionate **Full Stack Developer** focused on building scalable, efficient, and user-friendly web applications.
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🚀 Tech Stack
 
-**Programming Languages:**  
-- Python  
-- Java  
-- JavaScript  
-- SQL  
+### 🎨 Frontend Development
 
-**Frontend:**  
-- HTML  
-- CSS  
-- JavaScript  
-
-**Data & Backend:**  
-- Python (Pandas, NumPy)  
-- SQL  
-- ETL Pipelines  
-- Data Cleaning & Analysis  
-
-**Tools & Platforms:**  
-- Git & GitHub  
-- VS Code  
-- PyCharm  
-- MySQL  
+* HTML5, CSS3, JavaScript (ES6+)
+* React.js
+* Redux / Context API
+* Tailwind CSS / Bootstrap
+* Responsive Design
+* REST API Integration
 
 ---
 
-## 📂 Projects  
-- 📊 Data Analytics projects using Python & SQL  
-- 🔄 ETL Pipeline projects for data processing  
-- 🌐 Frontend web projects with responsive UI  
+### ⚙️ Backend Development
+
+* Node.js
+* Express.js
+* RESTful APIs
+* Authentication (JWT, OAuth)
+* MVC Architecture
 
 ---
 
-## 🎯 Goals  
-- Secure internships in Frontend / Data Analytics / Data Engineering  
-- Build real-world, scalable projects  
-- Continuously learn and grow as a software professional  
+### 🗄️ Database
+
+* MongoDB (Mongoose)
+* MySQL / PostgreSQL
+* Firebase (Basic)
+
+---
+
+### 🛠️ Tools & Technologies
+
+* Git & GitHub
+* Docker (Basics)
+* Postman
+* VS Code
+* Linux (Basic Commands)
+
+---
+
+### ☁️ Deployment & DevOps
+
+* Vercel / Netlify (Frontend)
+* Render / Railway (Backend)
+* CI/CD Basics
+* Environment Variables Management
+
+---
+
+## 📌 What I Do
+
+* Build full-stack web applications using MERN stack
+* Create RESTful APIs and integrate frontend with backend
+* Optimize performance and scalability
+* Write clean and maintainable code
+
+---
+
+## 📈 Currently Learning
+
+* Advanced Backend Architecture
+* System Design
+* Microservices
+* Cloud (AWS Basics)
 
 ---
 
