@@ -74,6 +74,6 @@ Hi there! I'm a passionate **Full Stack Developer** focused on building scalable
 
 ## 📫 Connect With Me  
 - GitHub: https://github.com/Shivamsingh50
-- LinkedIn: https://linkedin.com/in/shivam-singh30/
+- LinkedIn: https://linkedin.com/in/shivamsingh50/
 
 ⭐ If you like my work, feel free to star my repositories!
